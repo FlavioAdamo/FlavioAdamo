@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FlavioAdamo
 - 👀 I’m interested in data structures and algorithms
-- 🌱 I’m currently learning .Net FrameWork, Javascript and Python
-- 💞️ I’m looking to collaborate on any good Open Source project
+- 🌱 I’m currently learning .Net, Javascript and Python
 - 📫 How to reach me : flavioadamo.adams@gmail.com
 
 <!---
