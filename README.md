@@ -10,7 +10,7 @@
 
 <p align='center'>
   
-  <a href="(https://www.linkedin.com/in/flavio-adamo-0b0aa5187/">
+  <a href="https://www.linkedin.com/in/flavio-adamo-0b0aa5187/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:flavioadamo.adams@gmail.com">
