@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A .Net & Python developer.
+  A .NET & Python developer.
 </p>
 
 
