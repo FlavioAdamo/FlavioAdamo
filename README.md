@@ -18,7 +18,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-  <h3 align="center">🔭 I’m currently working on the Italian Red Cross portal</h3>
+  <h3 align="center">🔭 I’m currently working on Exifly.it</h3>
   <h3 align="center">🌱 I’m currently learning Vue.js</h3>
   <h3 align="center">👯 I’m looking to collaborate on Exifly</h3>
   
