@@ -18,9 +18,9 @@
   </a>&nbsp;&nbsp;
 </p>
 
-  <h3 align="center">🔭 I’m currently working on Exifly.it</h3>
+  <h3 align="center">🔭 I’m currently working on Apivault.dev</h3>
   <h3 align="center">🌱 I’m currently learning Vue.js</h3>
-  <h3 align="center">👯 I’m looking to collaborate on Exifly</h3>
+  <h3 align="center">👯 I’m looking to collaborate on @Exifly</h3>
   
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=FlavioAdamo&show_icons=true&count_private=true&theme=blue-green" width="450"></a>
