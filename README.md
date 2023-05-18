@@ -1,6 +1,8 @@
-<h1 align='center'>
+<h1>
   Hi there 👋 I'm @FlavioAdamo 👨‍💻
 </h1>
+
+![](https://github.com/FlavioAdamo/FlavioAdamo/blob/main/header.gif))
 
 <p align='center'>
   A passionate .NET & Python developer from Italy 🇮🇹
