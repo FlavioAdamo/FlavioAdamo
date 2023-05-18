@@ -3,10 +3,17 @@
 
 ![](https://github.com/FlavioAdamo/FlavioAdamo/blob/main/header.gif)
 
+###
+
+<h2 align="left">🔥   My Stats :</h2>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=FlavioAdamo&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -19,11 +26,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="62" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="62" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="62" alt="csharp logo"  />
+  
 </div>
 
 ###
 
-<h3 align="left">Connect with me</h3>
+
+<h2 align="left">Connect with me</h2>
 
 ###
 
@@ -32,11 +41,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
-
-###
-
-<img src="https://komarev.com/ghpvc/?username=FlavioAdamo" /> <br/><br/>
-
 
 
 <!---
